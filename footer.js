@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.toprevenuegate.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16",
+                            "https://toprevenuegate.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16",
                             
                         ]);
 
