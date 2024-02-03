@@ -8,5 +8,5 @@ document.write(
 		'\'width\' : 300,'+
 		'\'params\' : {}'+
 	'};'+
-	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://toprevenuegate.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16/invoke.js\"></scr' + 'ipt>');"+
+	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://toprevenuegate.com/ecee9914be319a3e316341b1849ccd16/invoke.js\"></scr' + 'ipt>');"+
 '</scr'+'ipt>');
