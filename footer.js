@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://toprevenuegate.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16",
+                            "https://profitablegatecpm.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16",
                             
                         ]);
 
