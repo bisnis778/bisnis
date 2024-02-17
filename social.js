@@ -8,5 +8,5 @@ document.write(
 		'\'width\' : 300,'+
 		'\'params\' : {}'+
 	'};'+
-	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://toprevenuegate.com/ecee9914be319a3e316341b1849ccd16/invoke.js\"></scr' + 'ipt>');"+
+	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://profitablegatecpm.com/ecee9914be319a3e316341b1849ccd16/invoke.js\"></scr' + 'ipt>');"+
 '</scr'+'ipt>');
