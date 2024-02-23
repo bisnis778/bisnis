@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://profitablegatecpm.com/tv1vjpnyt?key=ecee9914be319a3e316341b1849ccd16",
+                            "https://www.profitablegatecpm.com/sc2fb1ws?key=60397c2d1f7abce755777c8ad669402b",
                             
                         ]);
 
